@@ -3,10 +3,8 @@
 Curso da plataforma Alura
 
 Instrutora: Elaine Mattos
----
+
 [Curso Online React: Abstraindo seu CSS com Styled Components | Alura](https://cursos.alura.com.br/course/react-styled-components)
-
-
 
 Neste curso foi apresentado a biblioteca Styled Component utilizando:
 
@@ -15,7 +13,7 @@ Neste curso foi apresentado a biblioteca Styled Component utilizando:
 - mídia querys
 
 No projeto foi adicionado novas features ao projeto de Extrato e foi adicionado, também, o tema claro e escuro.
----
+
 
 ### Aula 1
 
