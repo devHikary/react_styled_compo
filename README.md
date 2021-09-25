@@ -21,3 +21,10 @@ No projeto foi adicionado novas features ao projeto de Extrato e foi adicionado,
 - Como criar um componente com o `Styled Components`
 - Sobre a geração automática de classes
 - Como transferir código CSS para meu componente estilizado
+### Aula 2
+
+- Usando o *reset* global do projeto com o `Styled Components`
+- Criando estilos globais para a aplicação
+- Importando fontes do google para o projeto
+- Criando variáveis para cores do projeto
+- Utilizando propriedades em **Componentes estilizados**
