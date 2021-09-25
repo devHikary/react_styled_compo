@@ -34,3 +34,9 @@ No projeto foi adicionado novas features ao projeto de Extrato e foi adicionado,
 - Como usar Heranças de estilo
 - Sobre possíveis problemas de performance caso um `Styled Component` seja declarado dentro de um outro componente React
 - Como tratar de *media queries* dentro dos componentes estilizados
+### Aula 4
+
+- Como compor elementos estilizados para criar novas telas
+- Vantagens de usar componentes para criar layouts
+- Utilizando `styled components` apenas para estilização
+- Porque evitar o uso de `switch-case`
