@@ -40,3 +40,8 @@ No projeto foi adicionado novas features ao projeto de Extrato e foi adicionado,
 - Vantagens de usar componentes para criar layouts
 - Utilizando `styled components` apenas para estilização
 - Porque evitar o uso de `switch-case`
+### Aula 5
+
+- Como organizar os temas do nosso projeto
+- O que é o `ThemeProvider` do **styledComponents**
+- Como alterar cores de icones SVG usando `filters`
