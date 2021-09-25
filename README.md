@@ -28,3 +28,9 @@ No projeto foi adicionado novas features ao projeto de Extrato e foi adicionado,
 - Importando fontes do google para o projeto
 - Criando variáveis para cores do projeto
 - Utilizando propriedades em **Componentes estilizados**
+### Aula 3
+
+- Porque usar *inline styles* é algo ruim
+- Como usar Heranças de estilo
+- Sobre possíveis problemas de performance caso um `Styled Component` seja declarado dentro de um outro componente React
+- Como tratar de *media queries* dentro dos componentes estilizados
